@@ -38,24 +38,39 @@ The CompartIoT Security learning kit is a great way to get started with IoT devi
 
 <h5>Identification Method 2</h5>
                     
-<p>
+<p>If we are not able to identify the microcontroller , then using Digital Multimeter we will do some Voltage tests on the board pinouts. This will help us to identify UART pinouts on the PCB board when we do not have the knowledge of the microcontrollerand its UART pins 
 
 <h5>Identification Method 3</h5>
                     
-<p>
+<p> Once the UART port is identified, communicate with the target device to further analyze read/write access to the device. The objective is to understand the process of interfacing with the target device, identifying the correct baud rate that it uses to communicate and analyze the read/write access.
+
     
-<h5> - SPI </h5>
+<h5> - JTAG </h5>
+
+<h5>Identification Method 1</h5>
+                    
+<p>JTAG Debug port identification method 1 using micro-controller pins and DMM (Digital Multimeter) conductivity test. The objective is to identify JTAG pinouts on the PCB board provided we have the knowledge of microcontroller JTAG pins, which can be found in the datasheet of the microcontroller.
 
 <h5>Identification Method 2</h5>
                     
 <p>
-
+    
 <h5>Identification Method 3</h5>
+                    
+<p>
+    
+<h5>Identification Method 4</h5>
+                    
+<p>
+
+<h5>Identification Method 5</h5>
                     
 <p>
     
 <h5> - I2C </h5>
-
+<h5>Identification Method 1</h5>
+                    
+<p>
 <h5>Identification Method 2</h5>
                     
 <p>
@@ -66,6 +81,9 @@ The CompartIoT Security learning kit is a great way to get started with IoT devi
     
 <h5> - SPI </h5>
 
+<h5>Identification Method 1</h5>
+                    
+<p>
 <h5>Identification Method 2</h5>
                     
 <p>
@@ -76,6 +94,9 @@ The CompartIoT Security learning kit is a great way to get started with IoT devi
     
 <h5> - BLE </h5>
 
+<h5>Identification Method 1</h5>
+                    
+<p>
 <h5>Identification Method 2</h5>
                     
 <p>
@@ -83,3 +104,17 @@ The CompartIoT Security learning kit is a great way to get started with IoT devi
 <h5>Identification Method 3</h5>
                     
 <p>
+    <h5>Identification Method 4</h5>
+                    
+<p>
+
+<h5>Identification Method 5</h5>
+                    
+<p>
+    
+<h5>Identification Method 6</h5>
+                    
+<p>
+
+
+ 
