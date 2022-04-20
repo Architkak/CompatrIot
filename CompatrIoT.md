@@ -4,6 +4,8 @@
 
 The CompartIoT Security learning kit is a great way to get started with IoT device security and exploitation using the DIVA (Damn Insecure and Vulnerable Application) board and other targets. This kit includes everything that you need in your arsenal to perform UART, I2C, SPI, JTAG, WiFi, BLE analysis. These labs provide guidance and step by step process of performing each lab. It will teach you everything from finding the communication ports, sniffing, manipulating communication to exploiting IoT devices.
  <h1>DIVA Board</h1>
+ 
+ ![DIVA](https://user-images.githubusercontent.com/72998453/164165108-8a6ac1bf-bcff-4be2-a616-20de7c08aa48.jpeg)
 
 <h2>PROTOCOLS</h2>
 
