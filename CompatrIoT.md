@@ -8,9 +8,9 @@ The CompartIoT Security learning kit is a great way to get started with IoT devi
 
 
 <h4> - UART </h4>
-
+<p>Universal Asynchronous Receiver-Transmitter
+<p>The best things about UART is that it only uses two wires to transmit data between devices
 <p>
-
 <h4> - SPI </h4>
 
 <p>
