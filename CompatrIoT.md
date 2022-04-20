@@ -8,21 +8,36 @@ The CompartIoT Security learning kit is a great way to get started with IoT devi
 
 
 <h4> - UART </h4>
+
 <p>Universal Asynchronous Receiver-Transmitter
+    
 <p>The best things about UART is that it only uses two wires to transmit data between devices
 <p>
-<h4> - SPI </h4>
+    
+<h4> - JTAG </h4>
+
+<p>JTAG is named after the Joint Test Action Group which codified it.
 
 <p>
-
+    
+<p>
+    
 <h4> - I2C </h4>
 
+<p>Inter-Integrated Circuit
+
 <p>
 
+<p>  
+    
 <h4> - SPI </h4>
 
+<p> Serial Peripheral Interface
+    
 <p>
-
+    
+<p>
+    
 <h4> - BLE </h4>
 
 <p>
@@ -42,7 +57,7 @@ The CompartIoT Security learning kit is a great way to get started with IoT devi
 
 <h5>Identification Method 3</h5>
                     
-<p> Once the UART port is identified, communicate with the target device to further analyze read/write access to the device. The objective is to understand the process of interfacing with the target device, identifying the correct baud rate that it uses to communicate and analyze the read/write access.
+<p> Once we sucessfully identified the UART pins we can communicate with the device to access the device using usb to TTL converter. 
 
     
 <h5> - JTAG </h5>
